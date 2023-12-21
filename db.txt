@@ -1,0 +1,5 @@
+1,Timur,Karimov,89017942813
+2,Lisa,Alisa,5
+3,Kot,Basilio,505
+4,Buratino,Karlovson,89007005555
+5,Carabas,Barabas,777777777
